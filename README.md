@@ -1,4 +1,3 @@
-![Machine Learning](https://scontent.fzyl2-2.fna.fbcdn.net/v/t39.30808-1/492162124_122105631410839099_5935056028284663649_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e99d92&_nc_ohc=FA4MnyzfeNoQ7kNvwF4wQ_-&_nc_oc=AdngnxvSL7mRLVrWbKdIRxiSIfkHNrVYw6XyEIPKj_FsL600Bv4bh-EcCZs-2Rxgsjw&_nc_zt=24&_nc_ht=scontent.fzyl2-2.fna&_nc_gid=FAQpfP4LTAVzquoJtvP0wg&oh=00_Aflh9MSuuALqZstcaB6wYSgccqdb0y6jquhfevcyUnEABQ&oe=693BB6B5)
 
 ### Hi there 👋, I'm Mojammel Alam
 #### Machine Learning
