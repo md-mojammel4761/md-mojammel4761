@@ -1,19 +1,17 @@
+Hi there 👋, I'm Mojammel Alam
 
-### Hi there 👋, I'm Mojammel Alam
-#### Machine Learning
+🚀 Aspiring Machine Learning Engineer
 
+🌱 Currently learning Machine Learning fundamentals
+🐍 Python | NumPy | Pandas | Matplotlib | Scikit-learn
+🗄️ SQL | Database Management
+🤖 Automation with Selenium
+🔗 Working with APIs & Data Integration
 
-Hi 👋 I’m Mojammel
-🌱 Beginner in Machine Learning
-🐍 Learning Python, data analysis, and ML basics
-📊 Interested in real-world problems using data
-🚀 Currently learning: NumPy, Pandas, Matplotlib, Scikit-learn
-📫 Always learning and improving step by step
+📊 Passionate about data analysis and real-world problem solving
+🔍 Exploring Supervised Learning, Model Evaluation & Data Pipelines
 
-Skills: Machine Learning / Python / Data Analysis / scikit-learn
-
-- 🔭 I’m currently working on Machine Learning fundamentals / Supervised Learning 
-- 🌱 I’m currently learning Machine Learning 
+💡 Consistently improving skills, building projects, and exploring new technologies
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-mojammel4761)  
